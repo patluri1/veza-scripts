@@ -1,0 +1,12 @@
+QUERIES
+AWS effective permissions granting wildcard resource access.
+AWS IAM Roles with AWS iam:PassRole permission and without iam:PassedToService condition
+AWS IAM Roles with iam:PassRole permission on all resources
+AWS IAM Roles with no recent activity
+AWS IAM unused customer-managed policies
+AWS S3 buckets with Block Public Access disabled
+AWS S3 buckets with potential public access
+AWS S3 buckets with potential public ACLs
+AWS Security Groups that allow all inbound traffic
+AWS Security Groups with all outgoing traffic enabled
+AWS IAM Users with AWS iam:PassRole permission and without iam:PassedToService condition
