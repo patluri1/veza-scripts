@@ -1,5 +1,4 @@
 QUERIES
-AWS effective permissions granting wildcard resource access.
 AWS IAM Roles with AWS iam:PassRole permission and without iam:PassedToService condition
 AWS IAM Roles with iam:PassRole permission on all resources
 AWS IAM Roles with no recent activity
